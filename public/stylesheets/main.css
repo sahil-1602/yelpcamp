@@ -1,0 +1,14 @@
+.thumbnail img{
+    width: 100%;
+}
+.col-md-9 .thumbnail{
+    border: 1px solid rgba(187, 180, 180,0.5);
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.form-delete{
+    display: inline;
+}
